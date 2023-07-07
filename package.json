@@ -1,0 +1,22 @@
+{
+  "name": "dark-8bit",
+  "displayName": "dark-8bit",
+  "description": "dark color theme with 8bit colors(mostly)",
+  "version": "1.5.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "publisher":"ficko",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark-8bit",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-8bit-color-theme.json"
+      }
+    ]
+  }
+}
