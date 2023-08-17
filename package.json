@@ -2,7 +2,7 @@
   "name": "dark-8bit",
   "displayName": "dark-8bit",
   "description": "dark color theme with 8bit colors(mostly)",
-  "version": "1.5.1",
+  "version": "1.5.8",
   "engines": {
     "vscode": "^1.79.0"
   },
